@@ -27,5 +27,5 @@ It is a llama-2 based chat system that helps people get answer from their own pd
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+![huggingface](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)
 
